@@ -1,5 +1,4 @@
 # IMC-calculator
-A simple calculator IMC, created using HTML, CSS and JavaScript.
 Uma calculadora simples para calcular o Índice de Massa Corporal (IMC), feita com HTML, CSS e JavaScript.
 
 ## Tecnologias
